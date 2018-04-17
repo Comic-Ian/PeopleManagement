@@ -59,7 +59,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="People.cs" />
     <Compile Include="PeopleManagementView.cs">
       <SubType>Form</SubType>
     </Compile>

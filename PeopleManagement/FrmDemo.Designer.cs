@@ -114,7 +114,7 @@
             this.dgv.Size = new System.Drawing.Size(240, 150);
             this.dgv.TabIndex = 4;
             // 
-            // Name
+            // Names
             // 
             this.Names.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.Names.HeaderText = "名称";

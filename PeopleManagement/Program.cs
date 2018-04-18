@@ -17,7 +17,10 @@ namespace PeopleManagement
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PeopleManagementView());
+
+            //这里可以修改程序运行哪个窗体
+            //Application.Run(new PeopleManagementView());
+            Application.Run(new FrmDemo());
         }
     }
 }
